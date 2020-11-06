@@ -600,7 +600,8 @@ footer {
 .header_two_line {
   margin: 0 auto;  
   border-bottom: 2px solid #000000;
-  width: 60px;  
+  /* width: 60px;   */
+  width:100%;
   margin-bottom: 28px;
 }
 .header_two_text {
@@ -771,6 +772,9 @@ footer {
   justify-content: space-between;
   padding-bottom: 50px;
   border-bottom: 1px solid #A1A1A1;
+}
+.six_i {
+  width: 100%;	
 }
 .conainer .six_block {
   width:100%;
